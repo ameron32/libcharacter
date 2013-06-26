@@ -1,6 +1,5 @@
-package com.ameron32.libcharacter;
+package com.ameron32.libcharacter.library;
 
-import com.ameron32.libcharacter.library.Group;
 
 public class Job {
 	String name;
