@@ -1,4 +1,3 @@
-
 package com.ameron32.libcharacter.library;
 
 import java.util.ArrayList;
